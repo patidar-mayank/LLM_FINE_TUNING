@@ -5,4 +5,7 @@ Fine-Tuning BERT for Hate Speech Detection!
 - After Fine-Tuning: F1-Score = 0.85
 
 
+- provide file for Fine tuning is not acutal implementatiom, it is overview of process only
+
+
 
